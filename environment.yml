@@ -5,5 +5,4 @@ channels:
 dependencies:
   - python=3.8
   - langchain
-  - huggingfacehub
   # Add any other dependencies as needed

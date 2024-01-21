@@ -1,8 +1,8 @@
-# Refined_RAG_router_all_you_need
+The following is a professional README.md file for the "Refined RAG Conda Environment" repository:
 
 # Refined RAG Conda Environment
 
-This Conda environment, named "refined_rag," is designed to support a refined version of the Retrieval-Augmented Generation (RAG) model. It includes necessary dependencies, such as langchain and Hugging Face Hub, to facilitate a seamless environment setup.
+This Conda environment, named "refined_rag," is designed to support a refined version of the Retrieval-Augmented Generation (RAG) model. It includes necessary dependencies, such as `langchain` and `Hugging Face Hub`, to facilitate a seamless environment setup.
 
 ## Installation
 
@@ -12,18 +12,24 @@ To create and activate the "refined_rag" Conda environment, follow these steps:
 
    ```bash
    git clone https://github.com/aniket-work/Refined_RAG_router_all_you_need.git
+   cd your-repository
+   ```
 
-2. cd your-repository
+2. Create the Conda environment:
 
-3. Create the Conda environment:
-    
-    conda env create -f environment.yml
+   ```bash
+   conda env create -f environment.yml
+   ```
 
-4. Activate the Conda environment:
-    
-    conda activate refined_rag
+3. Activate the Conda environment:
 
-5. install dependencies
-    pip install -r requirements.txt
+   ```bash
+   conda activate refined_rag
+   ```
 
+4. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
