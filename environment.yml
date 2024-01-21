@@ -1,0 +1,9 @@
+name: refined_rag
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.8
+  - langchain
+  - huggingfacehub
+  # Add any other dependencies as needed
